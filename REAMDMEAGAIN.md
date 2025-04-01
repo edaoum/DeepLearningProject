@@ -6,7 +6,11 @@ cd TP1-RNN-Sentiment-Analysis
 
 ### Step 2 : set up a virtual environment (optional but recommended)
 python -m venv venv
+
+
 source venv/bin/activate  # Linux/Mac
+
+
 venv\Scripts\activate     # Windows
 
 ### Step 3: install dependencies
