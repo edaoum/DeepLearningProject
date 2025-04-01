@@ -1,4 +1,4 @@
-# 🎬 Sentiment Analysis on IMDB Movie Reviews using RNN (LSTM)
+# 🎬 Sentiment analysis on IMDB movie reviews using RNN (LSTM)
 
 ## 🚀 Project Overview
 
