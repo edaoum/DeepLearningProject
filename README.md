@@ -7,7 +7,7 @@ This project demonstrates how to perform sentiment analysis on IMDB movie review
 ## 📌 Dataset
 
 - **Dataset used:** [IMDB Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-- **Description:** Contains 50,000 movie reviews labeled as either positive or negative.
+- **Description:** contains 50,000 movie reviews labeled as either positive or negative.
 
 The dataset must be placed inside the `data/` directory:
 
