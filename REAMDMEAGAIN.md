@@ -1,7 +1,6 @@
 ## 💻 How to run the project
 
 ### Step 1: clone the repository
-```bash
 git clone https://github.com/your_username/TP1-RNN-Sentiment-Analysis.git
 cd TP1-RNN-Sentiment-Analysis
 
@@ -13,7 +12,7 @@ venv\Scripts\activate     # Windows
 ### Step 3: install dependencies
 pip install -r requirements.txt
 
-Step 4: run the notebook
+### Step 4: run the notebook
 jupyter notebook
 
 📊 Results
