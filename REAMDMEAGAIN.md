@@ -15,10 +15,10 @@ pip install -r requirements.txt
 ### Step 4: run the notebook
 jupyter notebook
 
-📊 Results
+## 📊 Results
 The trained model achieves around 88% accuracy on the validation set.
 A detailed confusion matrix provides insight into the performance.
 
-📈 Future Improvements
+## 📈 Future Improvements
 Experiment with different architectures (GRU, CNN+RNN).
 Hyperparameter tuning (embedding dimensions, LSTM units, regularization).
